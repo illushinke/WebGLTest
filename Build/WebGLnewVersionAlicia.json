@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "WebGLTest_ver_2018_3_6",
-"dataUrl": "WebGLnewVersionTest.data.unityweb",
-"wasmCodeUrl": "WebGLnewVersionTest.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebGLnewVersionTest.wasm.framework.unityweb",
+"dataUrl": "WebGLnewVersionAlicia.data.unityweb",
+"wasmCodeUrl": "WebGLnewVersionAlicia.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLnewVersionAlicia.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
